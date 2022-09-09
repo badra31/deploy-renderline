@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deploy-renderline/static/css/main.008cfa6c.css",
+    "main.js": "/deploy-renderline/static/js/main.737f8a20.js",
+    "static/media/earth.jpg": "/deploy-renderline/static/media/earth.698dd2f0f3f5edab085e.jpg",
+    "static/media/Paris 3.png": "/deploy-renderline/static/media/Paris 3.cc2287cb6e467e5faf0e.png",
+    "static/media/France.png": "/deploy-renderline/static/media/France.c525b09ae597a33d393f.png",
+    "static/media/France Covid.png": "/deploy-renderline/static/media/France Covid.1739806d5c6ed69406a1.png",
+    "static/media/imgFlightAware.png": "/deploy-renderline/static/media/imgFlightAware.e8145502b3f784fdd889.png",
+    "static/media/imgExoa.jpg": "/deploy-renderline/static/media/imgExoa.c134822be82089c4077f.jpg",
+    "static/media/logo-RenderLine-without-text-line.svg": "/deploy-renderline/static/media/logo-RenderLine-without-text-line.ca46579330337ba7fe333a5047adf86f.svg",
+    "static/media/photo1.jpg": "/deploy-renderline/static/media/photo1.059e4d2037786980c73b.jpg",
+    "static/media/photo2.jpg": "/deploy-renderline/static/media/photo2.cbb32095b05d5ce3ea30.jpg",
+    "static/media/photo6.jpg": "/deploy-renderline/static/media/photo6.8ebabb3eccaacb287fe4.jpg",
+    "index.html": "/deploy-renderline/index.html",
+    "static/media/left-arrow.svg": "/deploy-renderline/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/deploy-renderline/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "main.008cfa6c.css.map": "/deploy-renderline/static/css/main.008cfa6c.css.map",
+    "main.737f8a20.js.map": "/deploy-renderline/static/js/main.737f8a20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008cfa6c.css",
+    "static/js/main.737f8a20.js"
+  ]
+}
