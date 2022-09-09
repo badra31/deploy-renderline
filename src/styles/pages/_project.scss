@@ -1,0 +1,22 @@
+.project {
+  .mid {
+    margin: 40px;
+
+    h1 {
+      padding-bottom: 30px;
+    }
+
+    .map {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 50px;
+    }
+
+    .options {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      padding-bottom: 50px;
+    }
+  }
+}

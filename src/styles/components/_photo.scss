@@ -1,0 +1,15 @@
+.photo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .tableau {
+    margin: 30px 80px;
+    text-align: center;
+  }
+}

@@ -1,0 +1,62 @@
+.home {
+  background: linear-gradient(313deg, #081523, #21456e 111%);
+
+  .hero {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .content {
+    margin-top: 500px;
+    z-index: 1;
+  }
+
+  p {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-size: 20px;
+    border: 2px solid white;
+    padding: 14px 70px;
+    border-radius: 50px;
+    display: inline-block;
+  }
+
+  p:hover {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.3);
+    background-color: white;
+  }
+
+  .back-video {
+    height: 720px;
+    width: 1534px;
+    position: absolute;
+    z-index: 0;
+  }
+
+  h1 {
+    margin-left: 50px;
+    position: absolute;
+    color: #fff;
+    font-weight: 600;
+    font-size: 100px;
+    z-index: 1;
+  }
+
+  h1:hover {
+    color: rgba(0, 0, 0, 0);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+  }
+
+  @media (max-aspect-ratio: 16/9) {
+    h1 {
+      font-size: 50px;
+    }
+  }
+}

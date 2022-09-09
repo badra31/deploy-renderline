@@ -1,0 +1,28 @@
+.log {
+  margin: 40px;
+
+  h1 {
+    padding-bottom: 30px;
+  }
+
+  .element {
+    padding-bottom: 15px;
+  }
+
+  .button {
+    font-weight: 500;
+    background: rgb(143, 143, 143);
+    color: rgb(49, 49, 49);
+    border: none;
+    padding: 5px 64px;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+
+  .button:hover {
+    border-radius: 5px;
+    background-color: rgb(100, 100, 100);
+    color: rgb(18, 18, 18);
+    transition: 0.2s;
+  }
+}

@@ -1,0 +1,42 @@
+.tool {
+  html {
+    scroll-behavior: smooth;
+  }
+  .text {
+    margin-left: 200px;
+    h1 {
+      padding-bottom: 30px;
+    }
+    h2 {
+      padding-bottom: 15px;
+    }
+
+    h3 {
+      padding-bottom: 10px;
+    }
+    p {
+      padding-bottom: 50px;
+    }
+
+    .section-nav {
+      padding-bottom: 20px;
+      li {
+        cursor: pointer;
+        padding-bottom: 2px;
+        color: #363636;
+      }
+
+      li:hover {
+        color: black;
+        font-weight: bold;
+        transition: 0.3s;
+      }
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    .text {
+      margin-right: 20px;
+      margin-left: 170px;
+    }
+  }
+}
